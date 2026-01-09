@@ -1,5 +1,5 @@
 # Msc_DataScience_ThesisExperiments_SanieRojas
-This is the code used to generate my Masters in Data Science thesis experiments for the Instituto Tecnológico de Buenos Aires college (ITBA), the most prestigious technological private university in Argentina. 
+This is the code used to generate my Masters in Data Science thesis experiments on Industry Classification success through companies descriptions with diriclet models LDA & HDP and examined with GBM for the ITBA college (Instituto Tecnológico de Buenos Aires), one of the most prestigious technological private university in Argentina. 
 
 <img width="1385" height="733" alt="image" src="https://github.com/user-attachments/assets/0c6c4d72-9f4d-4801-b76a-608e0f16494d" />
 
